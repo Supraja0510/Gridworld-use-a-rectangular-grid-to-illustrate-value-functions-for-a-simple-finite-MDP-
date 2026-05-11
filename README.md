@@ -132,11 +132,8 @@ for row in policy:
 ```
 # Output
 
-```
-State Value Function: <img width="608" height="313" alt="{C2CFC88F-D8A5-48F8-B6CC-0CCEF2C86E73}" src="https://github.com/user-attachments/assets/4ce5c427-002e-49f9-a714-08743b3fed16" />
+<img width="574" height="338" alt="image" src="https://github.com/user-attachments/assets/1328fef3-3de7-4d0b-bac9-09dcda7220ca" />
 
-
-```
 
 # Result
 
